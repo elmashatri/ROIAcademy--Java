@@ -1,1 +1,1 @@
-# ROIAcademy-Java Brginner / Java Advanced
+# ROIAcademy-Java Beginner / Java Advanced
